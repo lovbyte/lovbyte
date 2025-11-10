@@ -23,8 +23,9 @@ The stacks I have listed are some of my future studies. The only ones I have int
 
 **Back-end:** Python, JavaScript, Java
 
-
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lovbyte&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 
 
@@ -32,5 +33,6 @@ The stacks I have listed are some of my future studies. The only ones I have int
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorena-aparecida.com/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
+
 
 
